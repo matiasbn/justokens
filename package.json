@@ -1,0 +1,25 @@
+{
+  "name": "justokens",
+  "version": "1.0.0",
+  "description": "El proyecto Justokens nace de la idea de crear una prueba de concepto para crear tokens de forma interna en Justo.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasbn/justokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasbn/justokens/issues"
+  },
+  "homepage": "https://github.com/matiasbn/justokens#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.2.0"
+  }
+}
